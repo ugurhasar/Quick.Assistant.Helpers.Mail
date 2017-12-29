@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quick.Assistant.Helpers.Mail", "Quick.Assistant.Helpers.Mail\Quick.Assistant.Helpers.Mail.csproj", "{98C16C6B-B5AE-4E27-ABF7-4157E7957669}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{59312847-4048-4099-BE04-F5E17AD7D336}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\other projects\Helper.Mail\README.md = ..\..\other projects\Helper.Mail\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
